@@ -1,0 +1,45 @@
+{
+	"users": [
+		{
+			"id": "7",
+			"firstName": "Alex",
+			"age": 38,
+			"companyId": "1"
+		},
+		{
+			"id": "3",
+			"firstName": "Marie-Pierre",
+			"age": 32,
+			"companyId": "2"
+		},
+		{
+			"id": "4",
+			"firstName": "Thomas",
+			"age": 39,
+			"companyId": "3"
+		},
+		{
+			"id": "5",
+			"firstName": "Amaury",
+			"age": 39,
+			"companyId": "3"
+		}
+	],
+	"companies": [
+		{
+			"id": "1",
+			"name": "Google",
+			"description": "American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware."
+		},
+		{
+			"id": "2",
+			"name": "Apple",
+			"description": "American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services."
+		},
+		{
+			"id": "3",
+			"name": "Facebook",
+			"description": "Facebook, Inc. is an American technology conglomerate based in Menlo Park, California."
+		}
+	]
+}
